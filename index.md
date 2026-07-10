@@ -9,6 +9,9 @@ layout: default
     text-align: center;
     margin: 2.5rem 0 3rem;
   }
+
+  .site-title { display: none; }
+  
   .is-eyebrow {
     font-size: 0.72rem;
     letter-spacing: 0.28em;
