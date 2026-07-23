@@ -171,6 +171,6 @@ layout: default
   {% endfor %}
 </ol>
 {% if site.posts.size > 11 %}
-<p class="is-more"><a href="{{ '/draws/' | relative_url }}">Past draws ✶</a></p>
+<p class="is-more"><a href="{{ '/draws/' | relative_url }}">✶ Past draws ✶</a></p>
 {% endif %}
 {% endif %}
